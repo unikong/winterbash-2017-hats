@@ -125,6 +125,10 @@ These hats were made by [Stack Exchange](https://stackexchange.com), and the lic
 
 [![Ooh, Shiny!](hats/secret/ooh-shiny.png)](hats/secret/ooh-shiny.svg)
 
+### Glasses With A Number On Top
+
+[![Glasses With A Number On Top](hats/secret/glasses-with-a-number-on-top.png)](hats/secret/glasses-with-a-number-on-top.svg)
+
 ### Row Of Many Candles
 
 [![Row Of Many Candles](hats/secret/row-of-many-candles.png)](hats/secret/row-of-many-candles.svg)
